@@ -1,4 +1,4 @@
-# Bharat-Intern-Data Science-Tasks
+# Bharat-Intern-Data Science Internship-Tasks
 
 # Task 1 - Stock Prediction
 
